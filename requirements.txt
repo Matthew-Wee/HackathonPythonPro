@@ -1,0 +1,8 @@
+visual studio code
+tensorflow
+pillow
+microphone
+flask
+numpy
+discord
+requests
